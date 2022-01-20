@@ -5661,11 +5661,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\MyNetCoreApp\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\Projects\\GitNetCore\\AzureApps\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\Projects\\MyNetCoreApp\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\Projects\\GitNetCore\\AzureApps\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Sarvj\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\MyNetCoreApp\\WebApplication1\\obj\\",
+      "outputPath": "D:\\Projects\\GitNetCore\\AzureApps\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
